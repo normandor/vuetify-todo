@@ -1,4 +1,4 @@
-# vuetify-todo
+# Vuetify-todo
 
 ## Project setup
 ```
